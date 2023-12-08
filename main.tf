@@ -51,3 +51,5 @@ resource "aws_eip" "pointer-ip" {
 
   tags = {
     Name = "Pointer-Server-EIP"
+}
+}

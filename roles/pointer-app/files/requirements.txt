@@ -1,0 +1,4 @@
+## Conteúdo do arquivo requirements.txt
+redis
+flask
+
